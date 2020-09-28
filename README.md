@@ -1,1 +1,1 @@
-The Queen's College website is supported through the donations of the Queen's College Old Students' Association (Guyana).
+The Queen's College website is supported by the Queen's College Old Students' Association (Guyana).
