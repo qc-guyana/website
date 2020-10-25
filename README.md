@@ -16,6 +16,7 @@ If you identify a bug or have a suggestion, please open an issue. Depending on t
 The Queen's College Website Project is supported by the Queen's College Old Students' Association (Guyana). 
 
 ## Credits
-##### Website Development
+#### Website Development
 Isaac Mallampati (Class of 2021) was responsible for website design and development.
+
 Tonia Pyle (Class of 2021) was responsible for website content management and development.
