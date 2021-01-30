@@ -1,8 +1,3 @@
----
-title: "The Queen's College Website Project"
-layout: default
-permalink: /
----
 ## The Queen's College Website Project
 
 ### Brief Overview
