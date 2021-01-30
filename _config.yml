@@ -1,0 +1,13 @@
+title: "The Queen's College Website Project"
+tagline: "GitHub"
+description: "Current students and alumni interested in contributing to The Queen's College Website Project are welcome to do so."
+url: ""
+author: ""
+
+liquid:
+  error_mode: strict
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
